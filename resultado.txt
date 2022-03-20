@@ -1,0 +1,15 @@
+as [1]
+bem [2]
+creio [2]
+deus [2]
+e [1]
+fez [2]
+luas [1]
+os [1, 2]
+outras [3]
+para [3]
+que [2]
+sóis [1]
+vidas [3]
+total: 14,  distintas: 13
+Tempo: 0.000041 seconds
